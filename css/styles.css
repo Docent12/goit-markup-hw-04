@@ -204,6 +204,17 @@ body {
   padding: 0 15px;
   margin: 0 auto;
 }
+.featur-icon{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  
+}
+
 /**====== Hidden title ===== */
 .visually-hidden {
   position: absolute;

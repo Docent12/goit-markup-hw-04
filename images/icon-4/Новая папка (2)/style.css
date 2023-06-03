@@ -1,0 +1,319 @@
+@font-face {
+  font-family: 'WebStudio';
+  src:  url('fonts/WebStudio.eot?cx8u6t');
+  src:  url('fonts/WebStudio.eot?cx8u6t#iefix') format('embedded-opentype'),
+    url('fonts/WebStudio.ttf?cx8u6t') format('truetype'),
+    url('fonts/WebStudio.woff?cx8u6t') format('woff'),
+    url('fonts/WebStudio.svg?cx8u6t#WebStudio') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'WebStudio' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-antenna .path1:before {
+  content: "\e900";
+  color: rgb(46, 47, 66);
+}
+.icon-antenna .path2:before {
+  content: "\e901";
+  margin-left: -0.9375em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path1:before {
+  content: "\e902";
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path3:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path4:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path5:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path6:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path7:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path8:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path9:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path10:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path11:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path12:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path13:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path14:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path15:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path16:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path17:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-astronaut .path18:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(46, 47, 66);
+}
+.icon-astronaut .path19:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(46, 47, 66);
+}
+.icon-astronaut .path20:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(46, 47, 66);
+}
+.icon-astronaut .path21:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(46, 47, 66);
+}
+.icon-client-brand:before {
+  content: "\e917";
+  color: #8e8f99;
+}
+.icon-client-company1:before {
+  content: "\e918";
+  color: #8e8f99;
+}
+.icon-client-company2:before {
+  content: "\e919";
+  color: #8e8f99;
+}
+.icon-client-company3:before {
+  content: "\e91a";
+  color: #8e8f99;
+}
+.icon-client-foster:before {
+  content: "\e91b";
+  color: #8e8f99;
+}
+.icon-client-union:before {
+  content: "\e91c";
+  color: #8e8f99;
+}
+.icon-clock .path1:before {
+  content: "\e91d";
+  color: rgb(46, 47, 66);
+}
+.icon-clock .path2:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-clock .path3:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-clock .path4:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-diagram .path1:before {
+  content: "\e921";
+  color: rgb(77, 90, 229);
+}
+.icon-diagram .path2:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-diagram .path3:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-diagram .path4:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(77, 90, 229);
+}
+.icon-diagram .path5:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(46, 47, 66);
+}
+.icon-Facebook .path1:before {
+  content: "\e926";
+  color: rgb(77, 90, 229);
+}
+.icon-Facebook .path2:before {
+  content: "\e927";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-FaceF .path1:before {
+  content: "\e928";
+  color: rgb(77, 90, 229);
+}
+.icon-FaceF .path2:before {
+  content: "\e929";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-InstaF .path1:before {
+  content: "\e92a";
+  color: rgb(77, 90, 229);
+}
+.icon-InstaF .path2:before {
+  content: "\e92b";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-InstaF .path3:before {
+  content: "\e92c";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-InstaF .path4:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-Instagramm .path1:before {
+  content: "\e92e";
+  color: rgb(77, 90, 229);
+}
+.icon-Instagramm .path2:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-Instagramm .path3:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-Instagramm .path4:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-Linkedin .path1:before {
+  content: "\e932";
+  color: rgb(77, 90, 229);
+}
+.icon-Linkedin .path2:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-Linkedin .path3:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-Linkedin .path4:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-LinkF .path1:before {
+  content: "\e936";
+  color: rgb(77, 90, 229);
+}
+.icon-LinkF .path2:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-LinkF .path3:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-LinkF .path4:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-TweetF .path1:before {
+  content: "\e93a";
+  color: rgb(77, 90, 229);
+}
+.icon-TweetF .path2:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}
+.icon-Twetter .path1:before {
+  content: "\e93c";
+  color: rgb(77, 90, 229);
+}
+.icon-Twetter .path2:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(244, 244, 253);
+}

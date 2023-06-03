@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'WebStudio';
+  src:  url('fonts/WebStudio.eot?eircyy');
+  src:  url('fonts/WebStudio.eot?eircyy#iefix') format('embedded-opentype'),
+    url('fonts/WebStudio.ttf?eircyy') format('truetype'),
+    url('fonts/WebStudio.woff?eircyy') format('woff'),
+    url('fonts/WebStudio.svg?eircyy#WebStudio') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'WebStudio' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
