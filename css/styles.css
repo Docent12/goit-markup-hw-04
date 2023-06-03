@@ -137,15 +137,32 @@ body {
 /** -------------HERO---------------- */
 .hero {
   height: 600px;
-  background-color: var(--navybluemodal);
+  
+  
+  
+  
+  
   padding: 188px 0;
+
+  
+
 }
+
+  /*  background-color: hsla(0, 0%, 0%, 0.1);
+  background-image: url("https://ac.goit.global/img/photo.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat; * */
+
 .hero .container {
   display: flex;
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
   flex-direction: column;
+  
+  
+ 
 }
 .hero-title {
   font-family: "Roboto", sans-serif;
