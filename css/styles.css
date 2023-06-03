@@ -135,10 +135,19 @@ body {
 }
 
 /** -------------HERO---------------- */
+.bgimg{
+  background-image: url(/images/people-office_1.png);
+  background-size: 1440px 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
 .hero {
   height: 600px;
-  background-color: var(--navybluemodal);
+  /* background-color: var(--navybluemodal); */
   padding: 188px 0;
+  background-color:rgba(46, 47, 66, 0.7);
 }
 
 .hero .container {
@@ -147,15 +156,7 @@ body {
   padding: 0 15px;
   margin: 0 auto;
   flex-direction: column;
-
 }
-
-
-  /*  background-color: hsla(0, 0%, 0%, 0.1);
-  background-image: url("https://ac.goit.global/img/photo.jpg");
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat; * */
 
 
 .hero-title {
