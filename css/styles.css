@@ -198,23 +198,6 @@ body {
 .features {
   padding: 120px 0;
 }
-.features .container {
-  display: flex;
-  width: 1158px;
-  padding: 0 15px;
-  margin: 0 auto;
-}
-.featur-icon{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 112px;
-  background-color: #f4f4fd;
-  border-radius: 4px;
-  margin-bottom: 8px;
-  
-}
-
 /**====== Hidden title ===== */
 .visually-hidden {
   position: absolute;
@@ -228,6 +211,22 @@ body {
   clip: rect(0 0 0 0);
   overflow: hidden;
 } 
+.features .container {
+  display: flex;
+  width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.featur-icon{
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  /* background-color: #f4f4fd; */
+  border-radius: 4px;
+  margin-bottom: 8px;
+  
+}
 
 .features-list {
   display: flex;
