@@ -332,6 +332,7 @@ body {
   background-color: var(--white);
   flex-basis: calc((100% - 3 * 24px) / 4);
   border-radius: 0px 0px 4px 4px;
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08); ;
 }
 .namestatus {
   padding: 32px 16px;
@@ -357,6 +358,39 @@ body {
   letter-spacing: 0.02em;
   color: var(--slate);
   text-align: center;
+}
+.socialnetwrk-list {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  list-style: none;
+  padding: 0;
+  padding-top: 8px;
+
+}
+.socialnetwrk-icon {
+  width: 40px;
+  height: 40px;
+
+}
+.socialnwrk-link{
+  width: 100%;
+  height: 100%;
+  background-color: var(--iris);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.socialnwrk-link:hover{
+  background-color: var(--ocean);
+}
+.socialnwrk-link:focus{
+  background-color: var(--ocean);
+}
+.soci-icon{
+  fill: var(--cloud);
 }
 
 /** -------------FOOTER---------------- */
