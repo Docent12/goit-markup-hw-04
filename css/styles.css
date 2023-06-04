@@ -73,7 +73,8 @@ body {
 /** -------------HEADER---------------- */
 .header {
   border-bottom: 1px solid var(--cornflower);
-  box-shadow:  0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08); 
+  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 .header .container {
   display: flex;
@@ -144,12 +145,16 @@ body {
   display: flex;
   margin: 0 auto;
 }
-.bg-img{
-  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),url(/images/people-office.jpg);
+.bg-img {
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(/images/people-office.jpg);
   max-width: 1440px;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover; 
+  background-size: cover;
 }
 
 .hero .container {
@@ -159,7 +164,6 @@ body {
   margin: 0 auto;
   flex-direction: column;
 }
-
 
 .hero-title {
   font-family: "Roboto", sans-serif;
@@ -210,15 +214,15 @@ body {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-} 
+}
 .features .container {
   display: flex;
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
 }
-.featur-icon{
-   display: flex;
+.featur-icon {
+  display: flex;
   align-items: center;
   justify-content: center;
   height: 112px;
@@ -226,7 +230,6 @@ body {
   border-radius: 4px;
   margin-bottom: 8px;
   flex-direction: column;
-  
 }
 
 .features-list {
@@ -238,7 +241,6 @@ body {
 .features-list-item {
   flex-basis: calc((100% - 3 * 24px) / 4);
 }
-
 
 .features-list-title {
   font-family: "Roboto", sans-serif;
@@ -364,11 +366,9 @@ body {
 }
 
 .footer .container {
-  
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
-  
 }
 
 .footer-logo {
@@ -381,7 +381,6 @@ body {
   text-transform: uppercase;
   color: var(--iris);
   margin-bottom: 16px;
- 
 }
 
 .footer-logo-studio {
