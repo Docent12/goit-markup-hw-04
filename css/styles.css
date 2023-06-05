@@ -467,9 +467,17 @@ body {
 }
 
 .footer .container {
+  display: flex;
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
+  align-items:baseline;
+  
+
+}
+.flogo-text{
+  margin-right: 120px;
+
 }
 
 .footer-logo {
@@ -496,6 +504,51 @@ body {
   letter-spacing: 0.02em;
   color: var(--cloud);
   max-width: 264px;
+}
+.fsocialtext{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--white);
+  margin-bottom: 16px;
+
+
+
+}
+.fsocialnerk-list {
+  display: flex;
+  gap: 16px;
+
+}
+.fsocialnrk-item {
+  width: 40px;
+  height: 40px;
+
+}
+.fsocialnrk-link {
+  width: 100%;
+  height: 100%;
+  background-color: var(--iris);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.fsocialnrk-link:hover{
+  background-color: var(--green);
+}
+.fsocialnrk-link:focus{
+  background-color: var(--green);
+}
+
+
+
+.fsocialnrk-icon {
+  fill: var(--cloud);
+
 }
 
 /* *-----------Portfolio BTN---------- */
