@@ -402,7 +402,7 @@ body {
 
 .customers-content {
 }
-.customers-content.conteiner {
+.customers-content .conteiner {
   
     display: flex;
     /* align-items: stretch; */
@@ -413,7 +413,7 @@ body {
     
   }
 .customers-title {
-  font-size: 34px;
+  font-size: 36px;
   line-height: 1.11;
   color: var(--navybluemodal);
   margin-bottom: 72px;
